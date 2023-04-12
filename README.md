@@ -6,3 +6,14 @@
  <br>
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=JJamJaemin)](https://github.com/ryo-ma/github-profile-trophy)
+
+#
+ 
+<br>
+ Tech Stack
+ <br><br>
+
+[![python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)](https://github.com/JJamJaemin)
+[![JS](https://img.shields.io/badge/JavaScript-FFFF33?style=flat-square&logo=Node.js&logoColor=black)](https://github.com/JJamJaemin)
+ <a href="https://github.com/JJamJaemin" target="_new"><img src="https://img.shields.io/badge/Visual Studio-0067?style=square&logo=Visual Studio&logoColor=ffffff"/></a>
+[![C](https://img.shields.io/badge/C-99CCFF?style=flat-square&logo=C&logoColor=0099FF)](https://github.com/JJamJaemin)
