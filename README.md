@@ -1,7 +1,10 @@
 <div align=center>
 
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=BaeJaeMin%20&fontSize=90)
+<h3 align="center">💡 My Git Stats 💡</h3>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?&descAlign=60&color=gradient&username=JJamJaemin&theme=graywhite&show_icons=true) 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJamJaemin&layout=compact&theme=buefy)
  <br>
  
