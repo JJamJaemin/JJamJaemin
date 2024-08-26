@@ -4,9 +4,6 @@
 <h3 align="center">💡 My Git Stats 💡</h3>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?&descAlign=60&color=gradient&username=JJamJaemin&theme=graywhite&show_icons=true) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJamJaemin&layout=compact&theme=buefy)
- <br>
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=JJamJaemin)](https://github.com/ryo-ma/github-profile-trophy)
 
